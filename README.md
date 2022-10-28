@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alaa Nasser</h1>
-<h3 align="center">I love everything related to cybersecurity</h3>
+<h1 align="center">Hi 👋, I'm Alaa</h1>
 
-- 👯 I’m looking to collaborate on **Anything related to devsecops and security automation.**
 
 ## Connect with me  
 <div align="center">
